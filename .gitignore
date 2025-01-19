@@ -1,0 +1,25 @@
+# Ignore Visual Studio files
+.vs/
+.vscode/
+
+# Ignore build output directories
+bin/
+obj/
+
+# Ignore user-specific files
+*.user
+*.userosscache
+*.suo
+*.userprefs
+
+# Ignore SQLite database files
+*.db
+*.db-journal
+*.sqlite3
+*.sqlite
+
+# Ignore JetBrains Rider project files
+.idea/
+
+# Ignore other IDE or tool files (if applicable)
+.idea/
